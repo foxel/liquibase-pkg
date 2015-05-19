@@ -1,17 +1,17 @@
 {
-    "name": "alcaeus/liquibase",
-    "description": "Composer package to provide liquibase integration",
+    "name": "foxel/liquibase",
+    "description": "Composer package to provide liquibase integration, forked from alcaeus/liquibase.",
     "type": "library",
     "keywords": [
         "liquibase",
         "database"
     ],
-    "homepage": "https://github.com/alcaeus/liquibase",
+    "homepage": "https://github.com/foxel/liquibase-pkg",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Andreas B.",
-            "email": "alcaeus@alcaeus.org",
+            "name": "Andrey F. Kupreychik",
+            "email": "foxel@quickfox.ru",
             "role": "lead"
         }
     ],
