@@ -13,6 +13,10 @@
             "name": "Andrey F. Kupreychik",
             "email": "foxel@quickfox.ru",
             "role": "lead"
+        },
+        {
+            "name": "Andreas B.",
+            "email": "alcaeus@alcaeus.org"
         }
     ],
     "require": {
